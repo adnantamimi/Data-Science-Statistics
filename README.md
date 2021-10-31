@@ -28,6 +28,8 @@ Time series forecasting [https://otexts.com/fpp2/toolbox.html]
 
 The Waiting Time Paradox, or, Why Is My Bus Always Late? [http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/]
 
+Inspection Paradox [http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html]
+
 Regression: Transforming Variables [https://stats.stackexchange.com/questions/4831/regression-transforming-variables?rq=1]
 
 What if interaction wipes out my direct effects in regression? [https://stats.stackexchange.com/questions/5450/what-if-interaction-wipes-out-my-direct-effects-in-regression]
