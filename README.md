@@ -2,6 +2,8 @@
 
 This is a collection of articles, blogs, ebooks and papers on data science and statistics which I found interesting and insightful.
 
+Collection of resources to prepare for data science, quant, ML/AI interviews [https://dataloopr.com/]
+
 Why do the ANOVA assumptions (equality of variance, normality of residuals) matter? [https://stats.stackexchange.com/questions/255973/why-do-the-anova-assumptions-equality-of-variance-normality-of-residuals-matt]
 
 Choosing variables to include in a multiple linear regression model[https://stats.stackexchange.com/questions/21265/choosing-variables-to-include-in-a-multiple-linear-regression-model?noredirect=1&lq=1]
